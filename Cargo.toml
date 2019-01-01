@@ -1,0 +1,13 @@
+[package]
+name = "rust-boilerplate"
+version = "0.1.0"
+authors = ["Andrei Pavel <andrei.pavel@cti.pub.ro>"]
+edition = "2018"
+
+[dependencies]
+clap = "*"
+yaml-rust = "*"
+
+[[bin]]
+name = "rust-boilerplate"
+path = "src/main.rs"
