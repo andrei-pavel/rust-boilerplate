@@ -2,6 +2,7 @@
 
 Reads all the entries in the provided config.yaml and outputs them.
 
+
 ## Usage
 ```
 cargo run [-c|--config ${CONFIG_YAML}]
