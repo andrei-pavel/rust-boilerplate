@@ -4,6 +4,7 @@ Reads all the entries in the provided config.yaml and outputs them.
 
 
 ## Usage
+
 ```
 cargo build
 ./target/debug/rust-boilerplate -c|--config ${CONFIG_FILE}
